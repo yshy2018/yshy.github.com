@@ -1,0 +1,17 @@
+{
+  "VersionList":
+  [
+	{
+		"Version":"0.0.0.5",
+		"DownloadUrl":"http://qipai.dinglongkeji.com/download/GameRes0005/iOS/GameConfig.json"
+	},
+	{
+		"Version":"other",
+		"DownloadUrl":"http://qipai.dinglongkeji.com/download/GameRes0005/iOS/ResConfig.json"
+	},
+	{
+		"Version":"res",
+		"DownloadUrl":"http://qipai.dinglongkeji.com/download/GameRes0005/iOS/"
+	}
+  ]
+}
